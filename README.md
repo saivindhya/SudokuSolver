@@ -1,1 +1,1 @@
-A sudoku solver implemented using java programming language.
+A sudoku solver implemented using recursive backtracking in java programming language.
